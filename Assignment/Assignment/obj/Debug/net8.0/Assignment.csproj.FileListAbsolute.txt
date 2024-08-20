@@ -1,0 +1,14 @@
+C:\Users\vmanasa\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment.exe
+C:\Users\vmanasa\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment.deps.json
+C:\Users\vmanasa\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+C:\Users\vmanasa\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment.dll
+C:\Users\vmanasa\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment.pdb
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.dll
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.pdb
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+C:\Users\vmanasa\source\repos\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment.dll
